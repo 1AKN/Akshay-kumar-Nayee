@@ -13,15 +13,11 @@ Welcome to my GitHub profile!
 I'm currently diving deeper into Python , React, AWS. I believe in continuous learning and improvement.
 
 ## 💞️ Looking to Collaborate
-I’m looking to collaborate on projects related to [Your Collaboration Interests - e.g., Open Source Projects, Front-End Development, etc.]. I'm excited to join forces with like-minded individuals and contribute to meaningful projects.
+I’m looking to collaborate on projects related to Backend Development and Full stack development. I'm excited to join forces with like-minded individuals and contribute to meaningful projects.
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
+- Email: akshaykumarnayee001@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshaynayee1/
 
-<!---
-AkshayNayee/AkshayNayee is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ✨ Thank You ✨ 
