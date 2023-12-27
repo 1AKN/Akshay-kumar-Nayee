@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay Nayee
+# 👋 Hi, I’m Akshaykumar Nayee
 
 Welcome to my GitHub profile!
 
