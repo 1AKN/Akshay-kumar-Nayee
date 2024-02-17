@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 👀 About Me
-🔹I am currently working as a Research Assistant at Gannon University, where I am engaged in pioneering IoT projects as part of my Master's degree in Computer and Information Science, specializing in Software Engineering. My primary focus is on developing dynamic, user-friendly web applications using a variety of technologies including Python, JavaScript, Laravel, and MQTT. These applications are designed to address real-world challenges and improve user experiences.
+🔹I am currently working as a Graduate Research Assistant at Gannon University, where I am engaged in pioneering IoT projects as part of my Master's degree in Computer and Information Science, specializing in Software Engineering. My primary focus is on developing dynamic, user-friendly web applications using a variety of technologies including Python, JavaScript, Laravel, and MQTT. These applications are designed to address real-world challenges and improve user experiences.
 
 🔹With over two years of experience in software engineering, I have contributed to several projects, employing an array of web technologies such as Laravel, PHP, MySQL, React, JavaScript, MongoDB, and React JS. I am actively seeking summer internship opportunities and collaborative projects where I can leverage my skills in software development, full-stack development, and IoT. These opportunities would also help me grow my professional network.
 
