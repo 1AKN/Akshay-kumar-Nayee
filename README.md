@@ -12,9 +12,6 @@ Welcome to my GitHub profile!
 ## 🌱 I’m Currently Learning
 I'm currently diving deeper into Python , React, AWS. I believe in continuous learning and improvement.
 
-## 💞️ Looking to Collaborate
-I’m looking to collaborate on projects related to Backend Development and Full stack development. I'm excited to join forces with like-minded individuals and contribute to meaningful projects.
-
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - Email: akshaykumarnayee001@gmail.com
